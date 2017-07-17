@@ -1,0 +1,65 @@
+{
+  "album": [{
+    "albumtitle": "Chain smokers new album 2016",
+    "singer": "ft. Rihana",
+    "date": "2 hours ago",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "imageURL": "http://www.villagepipol.com/v2/wp-content/uploads/2016/08/Chainsmokers.jpg"
+  },
+  {
+    "albumtitle": "Despacito & Mis Grandes Éxitos",
+    "singer": "Luis Fonsi - Despacito ft. Daddy Yankee",
+    "date": "18 hours ago",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "imageURL": "http://www.tucmag.net/wp-content/uploads/2017/06/339231.jpg"
+  },
+  {
+    "albumtitle": "Ed Sheeran - Shape of You",
+    "singer": "Ed Sheeran",
+    "date": "3 days ago",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "imageURL": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg"
+  },{
+      "albumtitle": "Chain smokers new album 2016",
+      "singer": "ft. Rihana",
+      "date": "2 hours ago",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageURL": "http://www.villagepipol.com/v2/wp-content/uploads/2016/08/Chainsmokers.jpg"
+    },
+    {
+      "albumtitle": "Despacito & Mis Grandes Éxitos",
+      "singer": "Luis Fonsi - Despacito ft. Daddy Yankee",
+      "date": "18 hours ago",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageURL": "http://www.tucmag.net/wp-content/uploads/2017/06/339231.jpg"
+    },
+    {
+      "albumtitle": "Ed Sheeran - Shape of You",
+      "singer": "Ed Sheeran",
+      "date": "3 days ago",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageURL": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg"
+    },{
+      "albumtitle": "Chain smokers new album 2016",
+      "singer": "ft. Rihana",
+      "date": "2 hours ago",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageURL": "http://www.villagepipol.com/v2/wp-content/uploads/2016/08/Chainsmokers.jpg"
+    },
+    {
+      "albumtitle": "Despacito & Mis Grandes Éxitos",
+      "singer": "Luis Fonsi - Despacito ft. Daddy Yankee",
+      "date": "18 hours ago",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageURL": "http://www.tucmag.net/wp-content/uploads/2017/06/339231.jpg"
+    },
+    {
+      "albumtitle": "Ed Sheeran - Shape of You",
+      "singer": "Ed Sheeran",
+      "date": "3 days ago",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageURL": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg"
+    }
+
+  ]
+}
